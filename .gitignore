@@ -172,3 +172,6 @@ message*.json
 
 # Built Visual Studio Code Extensions
 *.vsix
+*.html
+*.txt
+all_messages.tsv
